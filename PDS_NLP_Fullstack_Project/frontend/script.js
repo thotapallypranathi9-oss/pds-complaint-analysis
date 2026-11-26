@@ -1,0 +1,11 @@
+const API = "http://127.0.0.1:5000/api";
+const input = document.getElementById("complaint");
+const button = document.getElementById("analyzeBtn");
+const error = document.getElementById("error");
+const results = document.getElementById("results");
+input.addEventListener("input",()=>document.getElementById("charCount").textContent=`${input.value.length} / 2000`);
+document.getElementById("useExample").addEventListener("click",()=>{input.value="I received less rice than my ration entitlement.";input.dispatchEvent(new Event("input"));input.focus()});
+document.getElementById("clearBtn").addEventListener("click",()=>{input.value="";input.dispatchEvent(new Event("input"));error.textContent="";results.classList.add("hidden");input.focus()});
+async function checkBackend(){const el=document.getElementById("connection");try{const r=await fetch(`${API}/health`);if(!r.ok)throw Error();const d=await r.json();el.textContent=`Backend connected · ${d.records} records`;el.className="status online"}catch{el.textContent="Backend offline";el.className="status"}}
+button.addEventListener("click",async()=>{const text=input.value.trim();error.textContent="";if(!text){error.textContent="Please enter a complaint first.";input.focus();return}button.disabled=true;button.textContent="Analyzing…";try{const r=await fetch(`${API}/predict`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({text})});const d=await r.json();if(!r.ok)throw Error(d.error||"Prediction failed");document.getElementById("category").textContent=d.category;document.getElementById("sentiment").textContent=d.sentiment;document.getElementById("categoryConfidence").textContent=`${d.category_confidence}%`;document.getElementById("sentimentConfidence").textContent=`${d.sentiment_confidence}%`;document.getElementById("categoryBar").style.width=`${d.category_confidence}%`;document.getElementById("sentimentBar").style.width=`${d.sentiment_confidence}%`;document.getElementById("processedText").textContent=d.processed_text;results.classList.remove("hidden");results.scrollIntoView({behavior:"smooth",block:"start"})}catch(e){error.textContent=`${e.message} Make sure the backend is running on port 5000.`}finally{button.disabled=false;button.textContent="Analyze complaint →"}});
+checkBackend();

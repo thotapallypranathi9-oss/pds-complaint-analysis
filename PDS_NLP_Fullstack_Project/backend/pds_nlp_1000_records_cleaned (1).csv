@@ -1,0 +1,1001 @@
+complaint_id,date,state,district,original_text,category,sentiment,record_type,record_id
+PDS0001,2026-01-13,Telangana,Warangal,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0002,2026-03-13,Andhra Pradesh,Karimnagar,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0003,2026-08-05,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0004,2026-04-30,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0005,2026-04-12,Andhra Pradesh,Karimnagar,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0006,2026-08-18,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0007,2026-03-23,Telangana,Warangal,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0008,2026-03-21,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0009,2026-02-17,Karnataka,Hanamkonda,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0010,2026-06-26,Telangana,Warangal,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0011,2026-08-24,Andhra Pradesh,Karimnagar,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0012,2026-02-10,Karnataka,Hanamkonda,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0013,2026-07-05,Telangana,Warangal,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0014,2026-04-27,Andhra Pradesh,Karimnagar,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0015,2026-02-21,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0016,2026-07-06,Telangana,Warangal,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0017,2026-04-18,Andhra Pradesh,Karimnagar,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0018,2026-03-29,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0019,2026-07-14,Telangana,Warangal,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0020,2026-01-29,Andhra Pradesh,Karimnagar,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0021,2026-07-25,Karnataka,Hanamkonda,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0022,2026-06-11,Telangana,Warangal,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0023,2026-08-23,Andhra Pradesh,Karimnagar,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0024,2026-05-07,Karnataka,Hanamkonda,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0025,2026-08-08,Telangana,Warangal,The PDS system is not showing my beneficiary information correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0026,2026-03-12,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0027,2026-01-25,Karnataka,Hanamkonda,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0028,2026-08-05,Telangana,Warangal,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0029,2026-07-15,Andhra Pradesh,Karimnagar,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0030,2026-05-09,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0031,2026-05-17,Telangana,Warangal,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0032,2026-08-11,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0033,2026-05-15,Karnataka,Hanamkonda,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0034,2026-02-24,Telangana,Warangal,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0035,2026-07-11,Andhra Pradesh,Karimnagar,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0036,2026-06-15,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0037,2026-06-07,Telangana,Warangal,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0038,2026-02-10,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0039,2026-03-06,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0040,2026-03-26,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0041,2026-04-13,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0042,2026-08-13,Karnataka,Hanamkonda,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0043,2026-05-07,Telangana,Warangal,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0044,2026-01-11,Andhra Pradesh,Karimnagar,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0045,2026-04-23,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0046,2026-02-04,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0047,2026-05-02,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0048,2026-03-09,Karnataka,Hanamkonda,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0049,2026-08-31,Telangana,Warangal,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0050,2026-02-19,Andhra Pradesh,Karimnagar,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0051,2026-07-30,Karnataka,Hanamkonda,The ration shop dealer did not provide proper information.,Dealer Issue,Negative,original,
+PDS0052,2026-02-01,Telangana,Warangal,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0053,2026-05-08,Andhra Pradesh,Karimnagar,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0054,2026-08-18,Karnataka,Hanamkonda,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0055,2026-05-23,Telangana,Warangal,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0056,2026-08-15,Andhra Pradesh,Karimnagar,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0057,2026-01-08,Karnataka,Hanamkonda,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0058,2026-07-28,Telangana,Warangal,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0059,2026-07-25,Andhra Pradesh,Karimnagar,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0060,2026-01-02,Karnataka,Hanamkonda,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0061,2026-05-27,Telangana,Warangal,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0062,2026-04-08,Andhra Pradesh,Karimnagar,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0063,2026-02-01,Karnataka,Hanamkonda,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0064,2026-09-02,Telangana,Warangal,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0065,2026-02-11,Andhra Pradesh,Karimnagar,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0066,2026-02-04,Karnataka,Hanamkonda,The PDS system is not showing my beneficiary information correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0067,2026-05-07,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0068,2026-06-11,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0069,2026-05-03,Karnataka,Hanamkonda,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0070,2026-06-03,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0071,2026-01-05,Andhra Pradesh,Karimnagar,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0072,2026-04-20,Karnataka,Hanamkonda,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0073,2026-06-28,Telangana,Warangal,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0074,2026-05-26,Andhra Pradesh,Karimnagar,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0075,2026-06-04,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0076,2026-06-03,Telangana,Warangal,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0077,2026-03-01,Andhra Pradesh,Karimnagar,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0078,2026-05-25,Karnataka,Hanamkonda,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0079,2026-04-15,Telangana,Warangal,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0080,2026-01-27,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0081,2026-01-23,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0082,2026-05-15,Telangana,Warangal,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0083,2026-08-07,Andhra Pradesh,Karimnagar,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0084,2026-02-08,Karnataka,Hanamkonda,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0085,2026-03-17,Telangana,Warangal,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0086,2026-06-07,Andhra Pradesh,Karimnagar,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0087,2026-04-18,Karnataka,Hanamkonda,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0088,2026-07-28,Telangana,Warangal,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0089,2026-03-25,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0090,2026-04-02,Karnataka,Hanamkonda,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0091,2026-05-17,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0092,2026-01-20,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0093,2026-08-24,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0094,2026-04-25,Telangana,Warangal,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0095,2026-06-18,Andhra Pradesh,Karimnagar,The ration shop dealer did not provide proper information.,Dealer Issue,Negative,original,
+PDS0096,2026-06-29,Karnataka,Hanamkonda,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0097,2026-06-19,Telangana,Warangal,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0098,2026-04-02,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0099,2026-02-25,Karnataka,Hanamkonda,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0100,2026-06-10,Telangana,Warangal,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0101,2026-04-08,Andhra Pradesh,Karimnagar,The ration shop dealer did not provide proper information.,Dealer Issue,Negative,original,
+PDS0102,2026-01-01,Karnataka,Hanamkonda,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0103,2026-08-09,Telangana,Warangal,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0104,2026-06-10,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0105,2026-06-17,Karnataka,Hanamkonda,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0106,2026-03-07,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0107,2026-03-31,Andhra Pradesh,Karimnagar,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0108,2026-01-01,Karnataka,Hanamkonda,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0109,2026-08-09,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0110,2026-08-15,Andhra Pradesh,Karimnagar,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0111,2026-08-31,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0112,2026-06-21,Telangana,Warangal,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0113,2026-04-26,Andhra Pradesh,Karimnagar,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0114,2026-01-24,Karnataka,Hanamkonda,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0115,2026-02-07,Telangana,Warangal,The PDS system is not showing my beneficiary information correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0116,2026-09-11,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0117,2026-01-03,Karnataka,Hanamkonda,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0118,2026-04-01,Telangana,Warangal,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0119,2026-05-08,Andhra Pradesh,Karimnagar,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0120,2026-08-26,Karnataka,Hanamkonda,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0121,2026-09-16,Telangana,Warangal,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0122,2026-09-01,Andhra Pradesh,Karimnagar,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0123,2026-05-22,Karnataka,Hanamkonda,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0124,2026-05-21,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0125,2026-05-01,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0126,2026-02-11,Karnataka,Hanamkonda,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0127,2026-07-16,Telangana,Warangal,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0128,2026-08-01,Andhra Pradesh,Karimnagar,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0129,2026-08-27,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0130,2026-08-04,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0131,2026-07-14,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0132,2026-07-19,Karnataka,Hanamkonda,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0133,2026-04-23,Telangana,Warangal,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0134,2026-01-15,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0135,2026-03-26,Karnataka,Hanamkonda,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0136,2026-01-14,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0137,2026-03-11,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0138,2026-05-14,Karnataka,Hanamkonda,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0139,2026-08-21,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0140,2026-05-23,Andhra Pradesh,Karimnagar,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0141,2026-08-29,Karnataka,Hanamkonda,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0142,2026-04-25,Telangana,Warangal,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0143,2026-05-07,Andhra Pradesh,Karimnagar,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0144,2026-03-20,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Neutral,original,
+PDS0145,2026-04-22,Telangana,Warangal,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0146,2026-03-27,Andhra Pradesh,Karimnagar,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0147,2026-06-09,Karnataka,Hanamkonda,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0148,2026-07-12,Telangana,Warangal,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0149,2026-05-05,Andhra Pradesh,Karimnagar,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0150,2026-03-03,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0151,2026-08-08,Telangana,Warangal,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0152,2026-06-24,Andhra Pradesh,Karimnagar,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0153,2026-02-24,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0154,2026-03-20,Telangana,Warangal,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0155,2026-05-19,Andhra Pradesh,Karimnagar,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0156,2026-08-12,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0157,2026-05-06,Telangana,Warangal,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0158,2026-05-05,Andhra Pradesh,Karimnagar,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0159,2026-01-15,Karnataka,Hanamkonda,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0160,2026-09-07,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0161,2026-06-24,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0162,2026-01-06,Karnataka,Hanamkonda,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0163,2026-05-04,Telangana,Warangal,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0164,2026-05-04,Andhra Pradesh,Karimnagar,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0165,2026-01-09,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0166,2026-07-27,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0167,2026-07-08,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0168,2026-06-19,Karnataka,Hanamkonda,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0169,2026-06-06,Telangana,Warangal,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0170,2026-04-09,Andhra Pradesh,Karimnagar,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0171,2026-04-05,Karnataka,Hanamkonda,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0172,2026-05-22,Telangana,Warangal,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0173,2026-04-10,Andhra Pradesh,Karimnagar,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0174,2026-04-02,Karnataka,Hanamkonda,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0175,2026-03-06,Telangana,Warangal,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0176,2026-05-30,Andhra Pradesh,Karimnagar,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0177,2026-01-07,Karnataka,Hanamkonda,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0178,2026-09-03,Telangana,Warangal,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0179,2026-01-27,Andhra Pradesh,Karimnagar,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0180,2026-02-03,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0181,2026-01-28,Telangana,Warangal,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0182,2026-06-05,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0183,2026-08-02,Karnataka,Hanamkonda,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0184,2026-07-14,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0185,2026-08-08,Andhra Pradesh,Karimnagar,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0186,2026-02-20,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Neutral,original,
+PDS0187,2026-03-22,Telangana,Warangal,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0188,2026-02-08,Andhra Pradesh,Karimnagar,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0189,2026-08-19,Karnataka,Hanamkonda,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0190,2026-01-17,Telangana,Warangal,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0191,2026-08-21,Andhra Pradesh,Karimnagar,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0192,2026-04-12,Karnataka,Hanamkonda,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0193,2026-04-26,Telangana,Warangal,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0194,2026-02-06,Andhra Pradesh,Karimnagar,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0195,2026-05-28,Karnataka,Hanamkonda,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0196,2026-06-05,Telangana,Warangal,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0197,2026-09-10,Andhra Pradesh,Karimnagar,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0198,2026-01-21,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0199,2026-02-16,Telangana,Warangal,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0200,2026-01-21,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0201,2026-08-15,Karnataka,Hanamkonda,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0202,2026-08-12,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0203,2026-07-29,Andhra Pradesh,Karimnagar,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0204,2026-03-24,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0205,2026-05-28,Telangana,Warangal,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0206,2026-02-15,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0207,2026-03-01,Karnataka,Hanamkonda,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0208,2026-08-25,Telangana,Warangal,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0209,2026-07-05,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0210,2026-01-27,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0211,2026-03-09,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0212,2026-03-04,Andhra Pradesh,Karimnagar,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0213,2026-06-09,Karnataka,Hanamkonda,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0214,2026-07-28,Telangana,Warangal,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0215,2026-08-25,Andhra Pradesh,Karimnagar,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0216,2026-05-30,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0217,2026-09-05,Telangana,Warangal,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0218,2026-03-16,Andhra Pradesh,Karimnagar,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0219,2026-03-11,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0220,2026-05-17,Telangana,Warangal,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0221,2026-09-08,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0222,2026-09-05,Karnataka,Hanamkonda,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0223,2026-07-13,Telangana,Warangal,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0224,2026-05-03,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0225,2026-07-30,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0226,2026-07-15,Telangana,Warangal,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0227,2026-01-19,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0228,2026-08-14,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0229,2026-03-15,Telangana,Warangal,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0230,2026-08-29,Andhra Pradesh,Karimnagar,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0231,2026-07-23,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0232,2026-09-07,Telangana,Warangal,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0233,2026-02-05,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Negative,original,
+PDS0234,2026-08-11,Karnataka,Hanamkonda,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0235,2026-03-27,Telangana,Warangal,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0236,2026-06-16,Andhra Pradesh,Karimnagar,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0237,2026-07-11,Karnataka,Hanamkonda,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0238,2026-07-30,Telangana,Warangal,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0239,2026-03-31,Andhra Pradesh,Karimnagar,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0240,2026-05-04,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0241,2026-05-11,Telangana,Warangal,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0242,2026-08-27,Andhra Pradesh,Karimnagar,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0243,2026-08-15,Karnataka,Hanamkonda,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0244,2026-05-09,Telangana,Warangal,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0245,2026-07-16,Andhra Pradesh,Karimnagar,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0246,2026-07-15,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0247,2026-06-01,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0248,2026-01-05,Andhra Pradesh,Karimnagar,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0249,2026-09-12,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Neutral,original,
+PDS0250,2026-04-08,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0251,2026-02-19,Andhra Pradesh,Karimnagar,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0252,2026-01-18,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0253,2026-02-16,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0254,2026-03-31,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0255,2026-07-07,Karnataka,Hanamkonda,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0256,2026-05-12,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0257,2026-02-28,Andhra Pradesh,Karimnagar,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0258,2026-04-26,Karnataka,Hanamkonda,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0259,2026-07-22,Telangana,Warangal,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0260,2026-03-05,Andhra Pradesh,Karimnagar,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0261,2026-07-15,Karnataka,Hanamkonda,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0262,2026-08-30,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0263,2026-04-24,Andhra Pradesh,Karimnagar,The PDS system is not showing my beneficiary information correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0264,2026-03-01,Karnataka,Hanamkonda,The ration shop dealer did not provide proper information.,Dealer Issue,Negative,original,
+PDS0265,2026-06-05,Telangana,Warangal,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0266,2026-05-01,Andhra Pradesh,Karimnagar,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0267,2026-08-21,Karnataka,Hanamkonda,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0268,2026-03-21,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0269,2026-07-28,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0270,2026-08-16,Karnataka,Hanamkonda,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0271,2026-02-20,Telangana,Warangal,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0272,2026-07-23,Andhra Pradesh,Karimnagar,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0273,2026-08-21,Karnataka,Hanamkonda,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0274,2026-01-11,Telangana,Warangal,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Negative,original,
+PDS0275,2026-04-16,Andhra Pradesh,Karimnagar,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0276,2026-04-21,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Negative,original,
+PDS0277,2026-01-02,Telangana,Warangal,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0278,2026-05-09,Andhra Pradesh,Karimnagar,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0279,2026-03-09,Karnataka,Hanamkonda,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0280,2026-06-15,Telangana,Warangal,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0281,2026-01-27,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0282,2026-02-28,Karnataka,Hanamkonda,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0283,2026-07-05,Telangana,Warangal,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0284,2026-09-15,Andhra Pradesh,Karimnagar,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0285,2026-06-04,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0286,2026-09-03,Telangana,Warangal,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0287,2026-09-09,Andhra Pradesh,Karimnagar,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0288,2026-06-14,Karnataka,Hanamkonda,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0289,2026-03-06,Telangana,Warangal,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0290,2026-05-31,Andhra Pradesh,Karimnagar,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0291,2026-02-28,Karnataka,Hanamkonda,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0292,2026-08-20,Telangana,Warangal,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0293,2026-08-21,Andhra Pradesh,Karimnagar,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0294,2026-06-10,Karnataka,Hanamkonda,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0295,2026-07-11,Telangana,Warangal,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0296,2026-02-16,Andhra Pradesh,Karimnagar,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0297,2026-02-19,Karnataka,Hanamkonda,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0298,2026-01-31,Telangana,Warangal,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0299,2026-07-30,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0300,2026-05-28,Karnataka,Hanamkonda,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0301,2026-02-23,Telangana,Warangal,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0302,2026-09-04,Andhra Pradesh,Karimnagar,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0303,2026-07-08,Karnataka,Hanamkonda,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0304,2026-04-26,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0305,2026-04-03,Andhra Pradesh,Karimnagar,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0306,2026-06-29,Karnataka,Hanamkonda,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0307,2026-07-25,Telangana,Warangal,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0308,2026-02-16,Andhra Pradesh,Karimnagar,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0309,2026-08-03,Karnataka,Hanamkonda,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0310,2026-07-09,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0311,2026-02-13,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0312,2026-01-26,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0313,2026-09-06,Telangana,Warangal,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0314,2026-05-20,Andhra Pradesh,Karimnagar,The ration shop dealer did not provide proper information.,Dealer Issue,Negative,original,
+PDS0315,2026-08-09,Karnataka,Hanamkonda,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0316,2026-09-07,Telangana,Warangal,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Negative,original,
+PDS0317,2026-07-22,Andhra Pradesh,Karimnagar,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0318,2026-04-15,Karnataka,Hanamkonda,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0319,2026-05-11,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0320,2026-01-04,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0321,2026-03-08,Karnataka,Hanamkonda,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0322,2026-07-01,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0323,2026-08-12,Andhra Pradesh,Karimnagar,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0324,2026-06-10,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0325,2026-07-27,Telangana,Warangal,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Negative,original,
+PDS0326,2026-01-11,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0327,2026-08-24,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0328,2026-05-05,Telangana,Warangal,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0329,2026-02-10,Andhra Pradesh,Karimnagar,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0330,2026-04-24,Karnataka,Hanamkonda,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0331,2026-02-28,Telangana,Warangal,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0332,2026-06-29,Andhra Pradesh,Karimnagar,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0333,2026-03-16,Karnataka,Hanamkonda,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0334,2026-03-20,Telangana,Warangal,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0335,2026-08-26,Andhra Pradesh,Karimnagar,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0336,2026-06-15,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Neutral,original,
+PDS0337,2026-08-29,Telangana,Warangal,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0338,2026-01-29,Andhra Pradesh,Karimnagar,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0339,2026-08-25,Karnataka,Hanamkonda,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0340,2026-07-08,Telangana,Warangal,The ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,original,
+PDS0341,2026-07-16,Andhra Pradesh,Karimnagar,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0342,2026-04-07,Karnataka,Hanamkonda,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0343,2026-03-19,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0344,2026-06-25,Andhra Pradesh,Karimnagar,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0345,2026-05-07,Karnataka,Hanamkonda,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0346,2026-03-23,Telangana,Warangal,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0347,2026-07-18,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0348,2026-01-27,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0349,2026-07-17,Telangana,Warangal,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0350,2026-03-18,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0351,2026-06-08,Karnataka,Hanamkonda,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0352,2026-02-13,Telangana,Warangal,The PDS system is not showing my beneficiary information correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0353,2026-02-17,Andhra Pradesh,Karimnagar,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0354,2026-07-05,Karnataka,Hanamkonda,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0355,2026-06-24,Telangana,Warangal,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0356,2026-03-12,Andhra Pradesh,Karimnagar,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0357,2026-02-21,Karnataka,Hanamkonda,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0358,2026-03-09,Telangana,Warangal,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0359,2026-03-25,Andhra Pradesh,Karimnagar,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0360,2026-01-23,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0361,2026-08-16,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0362,2026-04-30,Andhra Pradesh,Karimnagar,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0363,2026-08-29,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0364,2026-08-14,Telangana,Warangal,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0365,2026-08-03,Andhra Pradesh,Karimnagar,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0366,2026-03-12,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0367,2026-02-22,Telangana,Warangal,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0368,2026-02-12,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0369,2026-03-17,Karnataka,Hanamkonda,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0370,2026-08-19,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0371,2026-01-28,Andhra Pradesh,Karimnagar,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0372,2026-07-17,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0373,2026-01-15,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0374,2026-03-16,Andhra Pradesh,Karimnagar,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0375,2026-08-30,Karnataka,Hanamkonda,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0376,2026-01-03,Telangana,Warangal,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0377,2026-04-21,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0378,2026-05-28,Karnataka,Hanamkonda,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0379,2026-01-25,Telangana,Warangal,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0380,2026-08-23,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0381,2026-01-09,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0382,2026-08-08,Telangana,Warangal,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0383,2026-08-02,Andhra Pradesh,Karimnagar,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0384,2026-07-04,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0385,2026-08-29,Telangana,Warangal,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0386,2026-05-10,Andhra Pradesh,Karimnagar,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0387,2026-06-26,Karnataka,Hanamkonda,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0388,2026-06-20,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0389,2026-06-23,Andhra Pradesh,Karimnagar,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0390,2026-04-04,Karnataka,Hanamkonda,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0391,2026-01-19,Telangana,Warangal,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0392,2026-04-13,Andhra Pradesh,Karimnagar,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0393,2026-07-23,Karnataka,Hanamkonda,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0394,2026-01-19,Telangana,Warangal,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0395,2026-01-25,Andhra Pradesh,Karimnagar,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0396,2026-07-08,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0397,2026-07-17,Telangana,Warangal,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0398,2026-09-12,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0399,2026-08-06,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0400,2026-04-03,Telangana,Warangal,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0401,2026-02-10,Andhra Pradesh,Karimnagar,The rice distributed at the fair price shop was of poor quality.,Food Quality,Negative,original,
+PDS0402,2026-08-17,Karnataka,Hanamkonda,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0403,2026-08-16,Telangana,Warangal,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0404,2026-06-30,Andhra Pradesh,Karimnagar,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0405,2026-01-30,Karnataka,Hanamkonda,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0406,2026-03-23,Telangana,Warangal,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0407,2026-08-13,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0408,2026-07-07,Karnataka,Hanamkonda,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0409,2026-01-17,Telangana,Warangal,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Neutral,original,
+PDS0410,2026-07-10,Andhra Pradesh,Karimnagar,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0411,2026-03-12,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0412,2026-05-23,Telangana,Warangal,The ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,original,
+PDS0413,2026-04-06,Andhra Pradesh,Karimnagar,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0414,2026-03-02,Karnataka,Hanamkonda,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0415,2026-04-20,Telangana,Warangal,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0416,2026-04-13,Andhra Pradesh,Karimnagar,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0417,2026-08-20,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0418,2026-06-13,Telangana,Warangal,The rice supplied through the ration shop was poor in quality.,Food Quality,Negative,original,
+PDS0419,2026-05-29,Andhra Pradesh,Karimnagar,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0420,2026-07-05,Karnataka,Hanamkonda,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0421,2026-04-13,Telangana,Warangal,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0422,2026-01-14,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0423,2026-03-08,Karnataka,Hanamkonda,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0424,2026-06-08,Telangana,Warangal,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0425,2026-07-30,Andhra Pradesh,Karimnagar,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0426,2026-06-12,Karnataka,Hanamkonda,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0427,2026-06-26,Telangana,Warangal,I was asked to pay more than the applicable ration price.,Price Issue,Negative,original,
+PDS0428,2026-08-10,Andhra Pradesh,Karimnagar,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0429,2026-03-20,Karnataka,Hanamkonda,The food grains received were damaged.,Food Quality,Negative,original,
+PDS0430,2026-06-15,Telangana,Warangal,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0431,2026-05-26,Andhra Pradesh,Karimnagar,The ONORC portability transaction was not completed.,Portability/ONORC,Negative,original,
+PDS0432,2026-05-21,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0433,2026-02-17,Telangana,Warangal,I am facing an issue with my beneficiary status.,Beneficiary/Eligibility,Negative,original,
+PDS0434,2026-06-22,Andhra Pradesh,Karimnagar,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0435,2026-02-11,Karnataka,Hanamkonda,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0436,2026-08-02,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0437,2026-05-29,Andhra Pradesh,Karimnagar,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0438,2026-07-27,Karnataka,Hanamkonda,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0439,2026-01-31,Telangana,Warangal,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0440,2026-09-05,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0441,2026-03-15,Karnataka,Hanamkonda,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0442,2026-07-24,Telangana,Warangal,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0443,2026-02-24,Andhra Pradesh,Karimnagar,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0444,2026-03-04,Karnataka,Hanamkonda,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0445,2026-03-14,Telangana,Warangal,My ration card application has not been processed.,Ration Card Issue,Negative,original,
+PDS0446,2026-07-16,Andhra Pradesh,Karimnagar,The ration transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,original,
+PDS0447,2026-03-23,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0448,2026-03-23,Telangana,Warangal,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0449,2026-06-07,Andhra Pradesh,Karimnagar,The amount charged was different from the expected price.,Price Issue,Negative,original,
+PDS0450,2026-07-21,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0451,2026-04-21,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0452,2026-01-26,Andhra Pradesh,Karimnagar,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0453,2026-08-29,Karnataka,Hanamkonda,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0454,2026-03-10,Telangana,Warangal,I faced a problem with the fair price shop dealer.,Dealer Issue,Negative,original,
+PDS0455,2026-07-07,Andhra Pradesh,Karimnagar,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0456,2026-04-10,Karnataka,Hanamkonda,The dealer gave only part of the allocated food grains.,Quantity Issue,Negative,original,
+PDS0457,2026-07-17,Telangana,Warangal,The grain supplied had an unpleasant smell.,Food Quality,Negative,original,
+PDS0458,2026-05-24,Andhra Pradesh,Karimnagar,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0459,2026-02-19,Karnataka,Hanamkonda,I visited the ration shop but the shop was closed.,Shop Closed,Negative,original,
+PDS0460,2026-07-07,Telangana,Warangal,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0461,2026-07-25,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0462,2026-03-12,Karnataka,Hanamkonda,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0463,2026-08-22,Telangana,Warangal,My ration could not be collected through portability.,Portability/ONORC,Negative,original,
+PDS0464,2026-06-13,Andhra Pradesh,Karimnagar,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0465,2026-06-03,Karnataka,Hanamkonda,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Neutral,original,
+PDS0466,2026-06-03,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Neutral,original,
+PDS0467,2026-02-26,Andhra Pradesh,Karimnagar,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0468,2026-08-31,Karnataka,Hanamkonda,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0469,2026-09-03,Telangana,Warangal,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0470,2026-05-05,Andhra Pradesh,Karimnagar,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0471,2026-01-10,Karnataka,Hanamkonda,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0472,2026-03-19,Telangana,Warangal,The dealer refused to explain the ration distribution details.,Dealer Issue,Negative,original,
+PDS0473,2026-09-14,Andhra Pradesh,Karimnagar,The dealer did not cooperate during ration distribution.,Dealer Issue,Negative,original,
+PDS0474,2026-03-12,Karnataka,Hanamkonda,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0475,2026-06-16,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0476,2026-03-30,Andhra Pradesh,Karimnagar,Rice stock was unavailable at the fair price shop.,Stock Shortage,Negative,original,
+PDS0477,2026-07-01,Karnataka,Hanamkonda,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0478,2026-05-07,Telangana,Warangal,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0479,2026-06-02,Andhra Pradesh,Karimnagar,I am facing a problem with my ration card details.,Ration Card Issue,Negative,original,
+PDS0480,2026-06-12,Karnataka,Hanamkonda,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0481,2026-05-21,Telangana,Warangal,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0482,2026-07-14,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration system.,Beneficiary/Eligibility,Negative,original,
+PDS0483,2026-01-22,Karnataka,Hanamkonda,Biometric authentication failed at the ration shop.,Biometric/ePoS Issue,Negative,original,
+PDS0484,2026-08-15,Telangana,Warangal,The shop did not have enough ration stock.,Stock Shortage,Negative,original,
+PDS0485,2026-04-14,Andhra Pradesh,Karimnagar,My ration card information is not updated correctly.,Ration Card Issue,Negative,original,
+PDS0486,2026-05-20,Karnataka,Hanamkonda,I faced a problem while using ration portability.,Portability/ONORC,Negative,original,
+PDS0487,2026-05-03,Telangana,Warangal,My beneficiary details are not showing correctly.,Beneficiary/Eligibility,Negative,original,
+PDS0488,2026-01-27,Andhra Pradesh,Karimnagar,I have not received my ration card after applying.,Ration Card Issue,Negative,original,
+PDS0489,2026-08-30,Karnataka,Hanamkonda,The required food grains were out of stock.,Stock Shortage,Negative,original,
+PDS0490,2026-03-22,Telangana,Warangal,The quantity received was less than my entitlement.,Quantity Issue,Negative,original,
+PDS0491,2026-04-13,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration.,Price Issue,Negative,original,
+PDS0492,2026-01-31,Karnataka,Hanamkonda,The ePoS machine was not working.,Biometric/ePoS Issue,Negative,original,
+PDS0493,2026-01-20,Telangana,Warangal,I could not receive ration using portability.,Portability/ONORC,Negative,original,
+PDS0494,2026-01-19,Andhra Pradesh,Karimnagar,The shop was unavailable during the distribution period.,Shop Closed,Negative,original,
+PDS0495,2026-05-29,Karnataka,Hanamkonda,The fair price shop was closed when I visited.,Shop Closed,Negative,original,
+PDS0496,2026-02-24,Telangana,Warangal,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0497,2026-09-10,Andhra Pradesh,Karimnagar,The dealer requested an additional amount during distribution.,Price Issue,Negative,original,
+PDS0498,2026-04-09,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric device.,Biometric/ePoS Issue,Negative,original,
+PDS0499,2026-08-23,Telangana,Warangal,The ration shop was not open during distribution time.,Shop Closed,Negative,original,
+PDS0500,2026-06-22,Andhra Pradesh,Karimnagar,I received less rice than my ration entitlement.,Quantity Issue,Negative,original,
+PDS0001,2026-01-13,Karnataka,Hanamkonda,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0001
+PDS0002,2026-03-13,Telangana,Warangal,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0002
+PDS0003,2026-08-05,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0003
+PDS0004,2026-04-30,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0004
+PDS0005,2026-04-12,Telangana,Warangal,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0005
+PDS0006,2026-08-18,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0006
+PDS0007,2026-03-23,Karnataka,Hanamkonda,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0007
+PDS0008,2026-03-21,Telangana,Warangal,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0008
+PDS0009,2026-02-17,Andhra Pradesh,Karimnagar,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0009
+PDS0010,2026-06-26,Karnataka,Hanamkonda,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0010
+PDS0011,2026-08-24,Telangana,Warangal,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0011
+PDS0012,2026-02-10,Andhra Pradesh,Karimnagar,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0012
+PDS0013,2026-07-05,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0013
+PDS0014,2026-04-27,Telangana,Warangal,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0014
+PDS0015,2026-02-21,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0015
+PDS0016,2026-07-06,Karnataka,Hanamkonda,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0016
+PDS0017,2026-04-18,Telangana,Warangal,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0017
+PDS0018,2026-03-29,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0018
+PDS0019,2026-07-14,Karnataka,Hanamkonda,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0019
+PDS0020,2026-01-29,Telangana,Warangal,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0020
+PDS0021,2026-07-25,Andhra Pradesh,Karimnagar,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0021
+PDS0022,2026-06-11,Karnataka,Hanamkonda,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0022
+PDS0023,2026-08-23,Telangana,Warangal,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0023
+PDS0024,2026-05-07,Andhra Pradesh,Karimnagar,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0024
+PDS0025,2026-08-08,Karnataka,Hanamkonda,The PDS system is not showing my beneficiary information correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0025
+PDS0026,2026-03-12,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0026
+PDS0027,2026-01-25,Andhra Pradesh,Karimnagar,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0027
+PDS0028,2026-08-05,Karnataka,Hanamkonda,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0028
+PDS0029,2026-07-15,Telangana,Warangal,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0029
+PDS0030,2026-05-09,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0030
+PDS0031,2026-05-17,Karnataka,Hanamkonda,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0031
+PDS0032,2026-08-11,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0032
+PDS0033,2026-05-15,Andhra Pradesh,Karimnagar,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0033
+PDS0034,2026-02-24,Karnataka,Hanamkonda,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0034
+PDS0035,2026-07-11,Telangana,Warangal,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0035
+PDS0036,2026-06-15,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0036
+PDS0037,2026-06-07,Karnataka,Hanamkonda,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0037
+PDS0038,2026-02-10,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0038
+PDS0039,2026-03-06,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0039
+PDS0040,2026-03-26,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0040
+PDS0041,2026-04-13,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0041
+PDS0042,2026-08-13,Andhra Pradesh,Karimnagar,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0042
+PDS0043,2026-05-07,Karnataka,Hanamkonda,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0043
+PDS0044,2026-01-11,Telangana,Warangal,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0044
+PDS0045,2026-04-23,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0045
+PDS0046,2026-02-04,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0046
+PDS0047,2026-05-02,Telangana,Warangal,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0047
+PDS0048,2026-03-09,Andhra Pradesh,Karimnagar,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0048
+PDS0049,2026-08-31,Karnataka,Hanamkonda,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0049
+PDS0050,2026-02-19,Telangana,Warangal,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0050
+PDS0051,2026-07-30,Andhra Pradesh,Karimnagar,The PDS ration shop dealer did not provide proper information.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0051
+PDS0052,2026-02-01,Karnataka,Hanamkonda,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0052
+PDS0053,2026-05-08,Telangana,Warangal,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0053
+PDS0054,2026-08-18,Andhra Pradesh,Karimnagar,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0054
+PDS0055,2026-05-23,Karnataka,Hanamkonda,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0055
+PDS0056,2026-08-15,Telangana,Warangal,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0056
+PDS0057,2026-01-08,Andhra Pradesh,Karimnagar,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0057
+PDS0058,2026-07-28,Karnataka,Hanamkonda,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0058
+PDS0059,2026-07-25,Telangana,Warangal,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0059
+PDS0060,2026-01-02,Andhra Pradesh,Karimnagar,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0060
+PDS0061,2026-05-27,Karnataka,Hanamkonda,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0061
+PDS0062,2026-04-08,Telangana,Warangal,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0062
+PDS0063,2026-02-01,Andhra Pradesh,Karimnagar,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0063
+PDS0064,2026-09-02,Karnataka,Hanamkonda,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0064
+PDS0065,2026-02-11,Telangana,Warangal,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0065
+PDS0066,2026-02-04,Andhra Pradesh,Karimnagar,The PDS system is not showing my beneficiary information correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0066
+PDS0067,2026-05-07,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0067
+PDS0068,2026-06-11,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0068
+PDS0069,2026-05-03,Andhra Pradesh,Karimnagar,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0069
+PDS0070,2026-06-03,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0070
+PDS0071,2026-01-05,Telangana,Warangal,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0071
+PDS0072,2026-04-20,Andhra Pradesh,Karimnagar,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0072
+PDS0073,2026-06-28,Karnataka,Hanamkonda,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0073
+PDS0074,2026-05-26,Telangana,Warangal,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0074
+PDS0075,2026-06-04,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0075
+PDS0076,2026-06-03,Karnataka,Hanamkonda,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0076
+PDS0077,2026-03-01,Telangana,Warangal,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0077
+PDS0078,2026-05-25,Andhra Pradesh,Karimnagar,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0078
+PDS0079,2026-04-15,Karnataka,Hanamkonda,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0079
+PDS0080,2026-01-27,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0080
+PDS0081,2026-01-23,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0081
+PDS0082,2026-05-15,Karnataka,Hanamkonda,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0082
+PDS0083,2026-08-07,Telangana,Warangal,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0083
+PDS0084,2026-02-08,Andhra Pradesh,Karimnagar,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0084
+PDS0085,2026-03-17,Karnataka,Hanamkonda,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0085
+PDS0086,2026-06-07,Telangana,Warangal,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0086
+PDS0087,2026-04-18,Andhra Pradesh,Karimnagar,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0087
+PDS0088,2026-07-28,Karnataka,Hanamkonda,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0088
+PDS0089,2026-03-25,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0089
+PDS0090,2026-04-02,Andhra Pradesh,Karimnagar,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0090
+PDS0091,2026-05-17,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0091
+PDS0092,2026-01-20,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0092
+PDS0093,2026-08-24,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0093
+PDS0094,2026-04-25,Karnataka,Hanamkonda,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0094
+PDS0095,2026-06-18,Telangana,Warangal,The PDS ration shop dealer did not provide proper information.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0095
+PDS0096,2026-06-29,Andhra Pradesh,Karimnagar,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0096
+PDS0097,2026-06-19,Karnataka,Hanamkonda,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0097
+PDS0098,2026-04-02,Telangana,Warangal,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0098
+PDS0099,2026-02-25,Andhra Pradesh,Karimnagar,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0099
+PDS0100,2026-06-10,Karnataka,Hanamkonda,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0100
+PDS0101,2026-04-08,Telangana,Warangal,The PDS ration shop dealer did not provide proper information.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0101
+PDS0102,2026-01-01,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0102
+PDS0103,2026-08-09,Karnataka,Hanamkonda,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0103
+PDS0104,2026-06-10,Telangana,Warangal,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0104
+PDS0105,2026-06-17,Andhra Pradesh,Karimnagar,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0105
+PDS0106,2026-03-07,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0106
+PDS0107,2026-03-31,Telangana,Warangal,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0107
+PDS0108,2026-01-01,Andhra Pradesh,Karimnagar,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0108
+PDS0109,2026-08-09,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0109
+PDS0110,2026-08-15,Telangana,Warangal,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0110
+PDS0111,2026-08-31,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0111
+PDS0112,2026-06-21,Karnataka,Hanamkonda,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0112
+PDS0113,2026-04-26,Telangana,Warangal,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0113
+PDS0114,2026-01-24,Andhra Pradesh,Karimnagar,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0114
+PDS0115,2026-02-07,Karnataka,Hanamkonda,The PDS system is not showing my beneficiary information correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0115
+PDS0116,2026-09-11,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0116
+PDS0117,2026-01-03,Andhra Pradesh,Karimnagar,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0117
+PDS0118,2026-04-01,Karnataka,Hanamkonda,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0118
+PDS0119,2026-05-08,Telangana,Warangal,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0119
+PDS0120,2026-08-26,Andhra Pradesh,Karimnagar,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0120
+PDS0121,2026-09-16,Karnataka,Hanamkonda,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0121
+PDS0122,2026-09-01,Telangana,Warangal,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0122
+PDS0123,2026-05-22,Andhra Pradesh,Karimnagar,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0123
+PDS0124,2026-05-21,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0124
+PDS0125,2026-05-01,Telangana,Warangal,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0125
+PDS0126,2026-02-11,Andhra Pradesh,Karimnagar,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0126
+PDS0127,2026-07-16,Karnataka,Hanamkonda,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0127
+PDS0128,2026-08-01,Telangana,Warangal,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0128
+PDS0129,2026-08-27,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0129
+PDS0130,2026-08-04,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0130
+PDS0131,2026-07-14,Telangana,Warangal,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0131
+PDS0132,2026-07-19,Andhra Pradesh,Karimnagar,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0132
+PDS0133,2026-04-23,Karnataka,Hanamkonda,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0133
+PDS0134,2026-01-15,Telangana,Warangal,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0134
+PDS0135,2026-03-26,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0135
+PDS0136,2026-01-14,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0136
+PDS0137,2026-03-11,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0137
+PDS0138,2026-05-14,Andhra Pradesh,Karimnagar,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0138
+PDS0139,2026-08-21,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0139
+PDS0140,2026-05-23,Telangana,Warangal,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0140
+PDS0141,2026-08-29,Andhra Pradesh,Karimnagar,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0141
+PDS0142,2026-04-25,Karnataka,Hanamkonda,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0142
+PDS0143,2026-05-07,Telangana,Warangal,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0143
+PDS0144,2026-03-20,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0144
+PDS0145,2026-04-22,Karnataka,Hanamkonda,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0145
+PDS0146,2026-03-27,Telangana,Warangal,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0146
+PDS0147,2026-06-09,Andhra Pradesh,Karimnagar,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0147
+PDS0148,2026-07-12,Karnataka,Hanamkonda,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0148
+PDS0149,2026-05-05,Telangana,Warangal,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0149
+PDS0150,2026-03-03,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0150
+PDS0151,2026-08-08,Karnataka,Hanamkonda,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0151
+PDS0152,2026-06-24,Telangana,Warangal,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0152
+PDS0153,2026-02-24,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0153
+PDS0154,2026-03-20,Karnataka,Hanamkonda,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0154
+PDS0155,2026-05-19,Telangana,Warangal,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0155
+PDS0156,2026-08-12,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0156
+PDS0157,2026-05-06,Karnataka,Hanamkonda,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0157
+PDS0158,2026-05-05,Telangana,Warangal,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0158
+PDS0159,2026-01-15,Andhra Pradesh,Karimnagar,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0159
+PDS0160,2026-09-07,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0160
+PDS0161,2026-06-24,Telangana,Warangal,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0161
+PDS0162,2026-01-06,Andhra Pradesh,Karimnagar,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0162
+PDS0163,2026-05-04,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0163
+PDS0164,2026-05-04,Telangana,Warangal,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0164
+PDS0165,2026-01-09,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0165
+PDS0166,2026-07-27,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0166
+PDS0167,2026-07-08,Telangana,Warangal,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0167
+PDS0168,2026-06-19,Andhra Pradesh,Karimnagar,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0168
+PDS0169,2026-06-06,Karnataka,Hanamkonda,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0169
+PDS0170,2026-04-09,Telangana,Warangal,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0170
+PDS0171,2026-04-05,Andhra Pradesh,Karimnagar,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0171
+PDS0172,2026-05-22,Karnataka,Hanamkonda,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0172
+PDS0173,2026-04-10,Telangana,Warangal,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0173
+PDS0174,2026-04-02,Andhra Pradesh,Karimnagar,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0174
+PDS0175,2026-03-06,Karnataka,Hanamkonda,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0175
+PDS0176,2026-05-30,Telangana,Warangal,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0176
+PDS0177,2026-01-07,Andhra Pradesh,Karimnagar,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0177
+PDS0178,2026-09-03,Karnataka,Hanamkonda,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0178
+PDS0179,2026-01-27,Telangana,Warangal,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0179
+PDS0180,2026-02-03,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0180
+PDS0181,2026-01-28,Karnataka,Hanamkonda,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0181
+PDS0182,2026-06-05,Telangana,Warangal,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0182
+PDS0183,2026-08-02,Andhra Pradesh,Karimnagar,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0183
+PDS0184,2026-07-14,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0184
+PDS0185,2026-08-08,Telangana,Warangal,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0185
+PDS0186,2026-02-20,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0186
+PDS0187,2026-03-22,Karnataka,Hanamkonda,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0187
+PDS0188,2026-02-08,Telangana,Warangal,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0188
+PDS0189,2026-08-19,Andhra Pradesh,Karimnagar,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0189
+PDS0190,2026-01-17,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0190
+PDS0191,2026-08-21,Telangana,Warangal,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0191
+PDS0192,2026-04-12,Andhra Pradesh,Karimnagar,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0192
+PDS0193,2026-04-26,Karnataka,Hanamkonda,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0193
+PDS0194,2026-02-06,Telangana,Warangal,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0194
+PDS0195,2026-05-28,Andhra Pradesh,Karimnagar,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0195
+PDS0196,2026-06-05,Karnataka,Hanamkonda,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0196
+PDS0197,2026-09-10,Telangana,Warangal,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0197
+PDS0198,2026-01-21,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0198
+PDS0199,2026-02-16,Karnataka,Hanamkonda,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0199
+PDS0200,2026-01-21,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0200
+PDS0201,2026-08-15,Andhra Pradesh,Karimnagar,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0201
+PDS0202,2026-08-12,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0202
+PDS0203,2026-07-29,Telangana,Warangal,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0203
+PDS0204,2026-03-24,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0204
+PDS0205,2026-05-28,Karnataka,Hanamkonda,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0205
+PDS0206,2026-02-15,Telangana,Warangal,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0206
+PDS0207,2026-03-01,Andhra Pradesh,Karimnagar,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0207
+PDS0208,2026-08-25,Karnataka,Hanamkonda,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0208
+PDS0209,2026-07-05,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0209
+PDS0210,2026-01-27,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0210
+PDS0211,2026-03-09,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0211
+PDS0212,2026-03-04,Telangana,Warangal,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0212
+PDS0213,2026-06-09,Andhra Pradesh,Karimnagar,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0213
+PDS0214,2026-07-28,Karnataka,Hanamkonda,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0214
+PDS0215,2026-08-25,Telangana,Warangal,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0215
+PDS0216,2026-05-30,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0216
+PDS0217,2026-09-05,Karnataka,Hanamkonda,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0217
+PDS0218,2026-03-16,Telangana,Warangal,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0218
+PDS0219,2026-03-11,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0219
+PDS0220,2026-05-17,Karnataka,Hanamkonda,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0220
+PDS0221,2026-09-08,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0221
+PDS0222,2026-09-05,Andhra Pradesh,Karimnagar,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0222
+PDS0223,2026-07-13,Karnataka,Hanamkonda,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0223
+PDS0224,2026-05-03,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0224
+PDS0225,2026-07-30,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0225
+PDS0226,2026-07-15,Karnataka,Hanamkonda,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0226
+PDS0227,2026-01-19,Telangana,Warangal,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0227
+PDS0228,2026-08-14,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0228
+PDS0229,2026-03-15,Karnataka,Hanamkonda,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0229
+PDS0230,2026-08-29,Telangana,Warangal,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0230
+PDS0231,2026-07-23,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0231
+PDS0232,2026-09-07,Karnataka,Hanamkonda,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0232
+PDS0233,2026-02-05,Telangana,Warangal,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0233
+PDS0234,2026-08-11,Andhra Pradesh,Karimnagar,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0234
+PDS0235,2026-03-27,Karnataka,Hanamkonda,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0235
+PDS0236,2026-06-16,Telangana,Warangal,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0236
+PDS0237,2026-07-11,Andhra Pradesh,Karimnagar,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0237
+PDS0238,2026-07-30,Karnataka,Hanamkonda,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0238
+PDS0239,2026-03-31,Telangana,Warangal,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0239
+PDS0240,2026-05-04,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0240
+PDS0241,2026-05-11,Karnataka,Hanamkonda,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0241
+PDS0242,2026-08-27,Telangana,Warangal,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0242
+PDS0243,2026-08-15,Andhra Pradesh,Karimnagar,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0243
+PDS0244,2026-05-09,Karnataka,Hanamkonda,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0244
+PDS0245,2026-07-16,Telangana,Warangal,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0245
+PDS0246,2026-07-15,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0246
+PDS0247,2026-06-01,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0247
+PDS0248,2026-01-05,Telangana,Warangal,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0248
+PDS0249,2026-09-12,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0249
+PDS0250,2026-04-08,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0250
+PDS0251,2026-02-19,Telangana,Warangal,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0251
+PDS0252,2026-01-18,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0252
+PDS0253,2026-02-16,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0253
+PDS0254,2026-03-31,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0254
+PDS0255,2026-07-07,Andhra Pradesh,Karimnagar,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0255
+PDS0256,2026-05-12,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0256
+PDS0257,2026-02-28,Telangana,Warangal,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0257
+PDS0258,2026-04-26,Andhra Pradesh,Karimnagar,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0258
+PDS0259,2026-07-22,Karnataka,Hanamkonda,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0259
+PDS0260,2026-03-05,Telangana,Warangal,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0260
+PDS0261,2026-07-15,Andhra Pradesh,Karimnagar,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0261
+PDS0262,2026-08-30,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0262
+PDS0263,2026-04-24,Telangana,Warangal,The PDS system is not showing my beneficiary information correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0263
+PDS0264,2026-03-01,Andhra Pradesh,Karimnagar,The PDS ration shop dealer did not provide proper information.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0264
+PDS0265,2026-06-05,Karnataka,Hanamkonda,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0265
+PDS0266,2026-05-01,Telangana,Warangal,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0266
+PDS0267,2026-08-21,Andhra Pradesh,Karimnagar,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0267
+PDS0268,2026-03-21,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0268
+PDS0269,2026-07-28,Telangana,Warangal,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0269
+PDS0270,2026-08-16,Andhra Pradesh,Karimnagar,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0270
+PDS0271,2026-02-20,Karnataka,Hanamkonda,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0271
+PDS0272,2026-07-23,Telangana,Warangal,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0272
+PDS0273,2026-08-21,Andhra Pradesh,Karimnagar,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0273
+PDS0274,2026-01-11,Karnataka,Hanamkonda,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0274
+PDS0275,2026-04-16,Telangana,Warangal,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0275
+PDS0276,2026-04-21,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0276
+PDS0277,2026-01-02,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0277
+PDS0278,2026-05-09,Telangana,Warangal,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0278
+PDS0279,2026-03-09,Andhra Pradesh,Karimnagar,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0279
+PDS0280,2026-06-15,Karnataka,Hanamkonda,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0280
+PDS0281,2026-01-27,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0281
+PDS0282,2026-02-28,Andhra Pradesh,Karimnagar,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0282
+PDS0283,2026-07-05,Karnataka,Hanamkonda,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0283
+PDS0284,2026-09-15,Telangana,Warangal,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0284
+PDS0285,2026-06-04,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0285
+PDS0286,2026-09-03,Karnataka,Hanamkonda,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0286
+PDS0287,2026-09-09,Telangana,Warangal,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0287
+PDS0288,2026-06-14,Andhra Pradesh,Karimnagar,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0288
+PDS0289,2026-03-06,Karnataka,Hanamkonda,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0289
+PDS0290,2026-05-31,Telangana,Warangal,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0290
+PDS0291,2026-02-28,Andhra Pradesh,Karimnagar,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0291
+PDS0292,2026-08-20,Karnataka,Hanamkonda,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0292
+PDS0293,2026-08-21,Telangana,Warangal,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0293
+PDS0294,2026-06-10,Andhra Pradesh,Karimnagar,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0294
+PDS0295,2026-07-11,Karnataka,Hanamkonda,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0295
+PDS0296,2026-02-16,Telangana,Warangal,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0296
+PDS0297,2026-02-19,Andhra Pradesh,Karimnagar,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0297
+PDS0298,2026-01-31,Karnataka,Hanamkonda,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0298
+PDS0299,2026-07-30,Telangana,Warangal,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0299
+PDS0300,2026-05-28,Andhra Pradesh,Karimnagar,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0300
+PDS0301,2026-02-23,Karnataka,Hanamkonda,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0301
+PDS0302,2026-09-04,Telangana,Warangal,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0302
+PDS0303,2026-07-08,Andhra Pradesh,Karimnagar,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0303
+PDS0304,2026-04-26,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0304
+PDS0305,2026-04-03,Telangana,Warangal,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0305
+PDS0306,2026-06-29,Andhra Pradesh,Karimnagar,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0306
+PDS0307,2026-07-25,Karnataka,Hanamkonda,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0307
+PDS0308,2026-02-16,Telangana,Warangal,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0308
+PDS0309,2026-08-03,Andhra Pradesh,Karimnagar,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0309
+PDS0310,2026-07-09,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0310
+PDS0311,2026-02-13,Telangana,Warangal,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0311
+PDS0312,2026-01-26,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0312
+PDS0313,2026-09-06,Karnataka,Hanamkonda,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0313
+PDS0314,2026-05-20,Telangana,Warangal,The PDS ration shop dealer did not provide proper information.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0314
+PDS0315,2026-08-09,Andhra Pradesh,Karimnagar,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0315
+PDS0316,2026-09-07,Karnataka,Hanamkonda,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0316
+PDS0317,2026-07-22,Telangana,Warangal,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0317
+PDS0318,2026-04-15,Andhra Pradesh,Karimnagar,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0318
+PDS0319,2026-05-11,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0319
+PDS0320,2026-01-04,Telangana,Warangal,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0320
+PDS0321,2026-03-08,Andhra Pradesh,Karimnagar,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0321
+PDS0322,2026-07-01,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0322
+PDS0323,2026-08-12,Telangana,Warangal,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0323
+PDS0324,2026-06-10,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0324
+PDS0325,2026-07-27,Karnataka,Hanamkonda,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0325
+PDS0326,2026-01-11,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0326
+PDS0327,2026-08-24,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0327
+PDS0328,2026-05-05,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0328
+PDS0329,2026-02-10,Telangana,Warangal,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0329
+PDS0330,2026-04-24,Andhra Pradesh,Karimnagar,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0330
+PDS0331,2026-02-28,Karnataka,Hanamkonda,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0331
+PDS0332,2026-06-29,Telangana,Warangal,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0332
+PDS0333,2026-03-16,Andhra Pradesh,Karimnagar,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0333
+PDS0334,2026-03-20,Karnataka,Hanamkonda,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0334
+PDS0335,2026-08-26,Telangana,Warangal,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0335
+PDS0336,2026-06-15,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0336
+PDS0337,2026-08-29,Karnataka,Hanamkonda,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0337
+PDS0338,2026-01-29,Telangana,Warangal,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0338
+PDS0339,2026-08-25,Andhra Pradesh,Karimnagar,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0339
+PDS0340,2026-07-08,Karnataka,Hanamkonda,The PDS ration shop did not provide the full entitled quantity of rice.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0340
+PDS0341,2026-07-16,Telangana,Warangal,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0341
+PDS0342,2026-04-07,Andhra Pradesh,Karimnagar,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0342
+PDS0343,2026-03-19,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0343
+PDS0344,2026-06-25,Telangana,Warangal,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0344
+PDS0345,2026-05-07,Andhra Pradesh,Karimnagar,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0345
+PDS0346,2026-03-23,Karnataka,Hanamkonda,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0346
+PDS0347,2026-07-18,Telangana,Warangal,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0347
+PDS0348,2026-01-27,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0348
+PDS0349,2026-07-17,Karnataka,Hanamkonda,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0349
+PDS0350,2026-03-18,Telangana,Warangal,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0350
+PDS0351,2026-06-08,Andhra Pradesh,Karimnagar,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0351
+PDS0352,2026-02-13,Karnataka,Hanamkonda,The PDS system is not showing my beneficiary information correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0352
+PDS0353,2026-02-17,Telangana,Warangal,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0353
+PDS0354,2026-07-05,Andhra Pradesh,Karimnagar,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0354
+PDS0355,2026-06-24,Karnataka,Hanamkonda,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0355
+PDS0356,2026-03-12,Telangana,Warangal,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0356
+PDS0357,2026-02-21,Andhra Pradesh,Karimnagar,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0357
+PDS0358,2026-03-09,Karnataka,Hanamkonda,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0358
+PDS0359,2026-03-25,Telangana,Warangal,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0359
+PDS0360,2026-01-23,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0360
+PDS0361,2026-08-16,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0361
+PDS0362,2026-04-30,Telangana,Warangal,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0362
+PDS0363,2026-08-29,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0363
+PDS0364,2026-08-14,Karnataka,Hanamkonda,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0364
+PDS0365,2026-08-03,Telangana,Warangal,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0365
+PDS0366,2026-03-12,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0366
+PDS0367,2026-02-22,Karnataka,Hanamkonda,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0367
+PDS0368,2026-02-12,Telangana,Warangal,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0368
+PDS0369,2026-03-17,Andhra Pradesh,Karimnagar,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0369
+PDS0370,2026-08-19,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0370
+PDS0371,2026-01-28,Telangana,Warangal,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0371
+PDS0372,2026-07-17,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0372
+PDS0373,2026-01-15,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0373
+PDS0374,2026-03-16,Telangana,Warangal,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0374
+PDS0375,2026-08-30,Andhra Pradesh,Karimnagar,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0375
+PDS0376,2026-01-03,Karnataka,Hanamkonda,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0376
+PDS0377,2026-04-21,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0377
+PDS0378,2026-05-28,Andhra Pradesh,Karimnagar,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0378
+PDS0379,2026-01-25,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0379
+PDS0380,2026-08-23,Telangana,Warangal,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0380
+PDS0381,2026-01-09,Andhra Pradesh,Karimnagar,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0381
+PDS0382,2026-08-08,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0382
+PDS0383,2026-08-02,Telangana,Warangal,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0383
+PDS0384,2026-07-04,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0384
+PDS0385,2026-08-29,Karnataka,Hanamkonda,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0385
+PDS0386,2026-05-10,Telangana,Warangal,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0386
+PDS0387,2026-06-26,Andhra Pradesh,Karimnagar,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0387
+PDS0388,2026-06-20,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0388
+PDS0389,2026-06-23,Telangana,Warangal,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0389
+PDS0390,2026-04-04,Andhra Pradesh,Karimnagar,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0390
+PDS0391,2026-01-19,Karnataka,Hanamkonda,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0391
+PDS0392,2026-04-13,Telangana,Warangal,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0392
+PDS0393,2026-07-23,Andhra Pradesh,Karimnagar,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0393
+PDS0394,2026-01-19,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0394
+PDS0395,2026-01-25,Telangana,Warangal,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0395
+PDS0396,2026-07-08,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0396
+PDS0397,2026-07-17,Karnataka,Hanamkonda,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0397
+PDS0398,2026-09-12,Telangana,Warangal,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0398
+PDS0399,2026-08-06,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0399
+PDS0400,2026-04-03,Karnataka,Hanamkonda,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0400
+PDS0401,2026-02-10,Telangana,Warangal,The rice supply distributed at the fair price shop was of poor quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0401
+PDS0402,2026-08-17,Andhra Pradesh,Karimnagar,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0402
+PDS0403,2026-08-16,Karnataka,Hanamkonda,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0403
+PDS0404,2026-06-30,Telangana,Warangal,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0404
+PDS0405,2026-01-30,Andhra Pradesh,Karimnagar,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0405
+PDS0406,2026-03-23,Karnataka,Hanamkonda,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0406
+PDS0407,2026-08-13,Telangana,Warangal,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0407
+PDS0408,2026-07-07,Andhra Pradesh,Karimnagar,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0408
+PDS0409,2026-01-17,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0409
+PDS0410,2026-07-10,Telangana,Warangal,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0410
+PDS0411,2026-03-12,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0411
+PDS0412,2026-05-23,Karnataka,Hanamkonda,The PDS ration shop did not have sufficient stock of rice.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0412
+PDS0413,2026-04-06,Telangana,Warangal,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0413
+PDS0414,2026-03-02,Andhra Pradesh,Karimnagar,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0414
+PDS0415,2026-04-20,Karnataka,Hanamkonda,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0415
+PDS0416,2026-04-13,Telangana,Warangal,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0416
+PDS0417,2026-08-20,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0417
+PDS0418,2026-06-13,Karnataka,Hanamkonda,The rice supplied through the PDS ration shop was poor in quality.,Food Quality,Negative,augmented_from_existing_record,AUG_0418
+PDS0419,2026-05-29,Telangana,Warangal,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0419
+PDS0420,2026-07-05,Andhra Pradesh,Karimnagar,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0420
+PDS0421,2026-04-13,Karnataka,Hanamkonda,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0421
+PDS0422,2026-01-14,Telangana,Warangal,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0422
+PDS0423,2026-03-08,Andhra Pradesh,Karimnagar,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0423
+PDS0424,2026-06-08,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0424
+PDS0425,2026-07-30,Telangana,Warangal,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0425
+PDS0426,2026-06-12,Andhra Pradesh,Karimnagar,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0426
+PDS0427,2026-06-26,Karnataka,Hanamkonda,I was asked to pay more than the applicable ration supply price.,Price Issue,Negative,augmented_from_existing_record,AUG_0427
+PDS0428,2026-08-10,Telangana,Warangal,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0428
+PDS0429,2026-03-20,Andhra Pradesh,Karimnagar,The food grains received were damaged at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0429
+PDS0430,2026-06-15,Karnataka,Hanamkonda,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0430
+PDS0431,2026-05-26,Telangana,Warangal,The ONORC portability transaction was not completed at the ration shop.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0431
+PDS0432,2026-05-21,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0432
+PDS0433,2026-02-17,Karnataka,Hanamkonda,I am facing an issue with my beneficiary status at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0433
+PDS0434,2026-06-22,Telangana,Warangal,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0434
+PDS0435,2026-02-11,Andhra Pradesh,Karimnagar,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0435
+PDS0436,2026-08-02,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0436
+PDS0437,2026-05-29,Telangana,Warangal,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0437
+PDS0438,2026-07-27,Andhra Pradesh,Karimnagar,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0438
+PDS0439,2026-01-31,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0439
+PDS0440,2026-09-05,Telangana,Warangal,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0440
+PDS0441,2026-03-15,Andhra Pradesh,Karimnagar,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0441
+PDS0442,2026-07-24,Karnataka,Hanamkonda,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0442
+PDS0443,2026-02-24,Telangana,Warangal,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0443
+PDS0444,2026-03-04,Andhra Pradesh,Karimnagar,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0444
+PDS0445,2026-03-14,Karnataka,Hanamkonda,My ration supply card application has not been processed.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0445
+PDS0446,2026-07-16,Telangana,Warangal,The ration supply transaction could not be completed because of an ePoS problem.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0446
+PDS0447,2026-03-23,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0447
+PDS0448,2026-03-23,Karnataka,Hanamkonda,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0448
+PDS0449,2026-06-07,Telangana,Warangal,The amount charged was different from the expected price supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0449
+PDS0450,2026-07-21,Andhra Pradesh,Karimnagar,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0450
+PDS0451,2026-04-21,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0451
+PDS0452,2026-01-26,Telangana,Warangal,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0452
+PDS0453,2026-08-29,Andhra Pradesh,Karimnagar,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0453
+PDS0454,2026-03-10,Karnataka,Hanamkonda,I faced a problem with the fair price supply shop dealer.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0454
+PDS0455,2026-07-07,Telangana,Warangal,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0455
+PDS0456,2026-04-10,Andhra Pradesh,Karimnagar,The ration dealer gave only part of the allocated food grains.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0456
+PDS0457,2026-07-17,Karnataka,Hanamkonda,The grain supplied had an unpleasant smell at the ration shop.,Food Quality,Negative,augmented_from_existing_record,AUG_0457
+PDS0458,2026-05-24,Telangana,Warangal,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0458
+PDS0459,2026-02-19,Andhra Pradesh,Karimnagar,I visited the PDS ration shop but the shop was closed.,Shop Closed,Negative,augmented_from_existing_record,AUG_0459
+PDS0460,2026-07-07,Karnataka,Hanamkonda,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0460
+PDS0461,2026-07-25,Telangana,Warangal,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0461
+PDS0462,2026-03-12,Andhra Pradesh,Karimnagar,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0462
+PDS0463,2026-08-22,Karnataka,Hanamkonda,My ration supply could not be collected through portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0463
+PDS0464,2026-06-13,Telangana,Warangal,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0464
+PDS0465,2026-06-03,Andhra Pradesh,Karimnagar,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0465
+PDS0466,2026-06-03,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Neutral,augmented_from_existing_record,AUG_0466
+PDS0467,2026-02-26,Telangana,Warangal,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0467
+PDS0468,2026-08-31,Andhra Pradesh,Karimnagar,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0468
+PDS0469,2026-09-03,Karnataka,Hanamkonda,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0469
+PDS0470,2026-05-05,Telangana,Warangal,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0470
+PDS0471,2026-01-10,Andhra Pradesh,Karimnagar,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0471
+PDS0472,2026-03-19,Karnataka,Hanamkonda,The dealer refused to explain the ration supply distribution details.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0472
+PDS0473,2026-09-14,Telangana,Warangal,The dealer did not cooperate during ration supply distribution.,Dealer Issue,Negative,augmented_from_existing_record,AUG_0473
+PDS0474,2026-03-12,Andhra Pradesh,Karimnagar,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0474
+PDS0475,2026-06-16,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0475
+PDS0476,2026-03-30,Telangana,Warangal,rice supply stock was unavailable at the fair price shop.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0476
+PDS0477,2026-07-01,Andhra Pradesh,Karimnagar,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0477
+PDS0478,2026-05-07,Karnataka,Hanamkonda,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0478
+PDS0479,2026-06-02,Telangana,Warangal,I am facing a problem with my ration supply card details.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0479
+PDS0480,2026-06-12,Andhra Pradesh,Karimnagar,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0480
+PDS0481,2026-05-21,Karnataka,Hanamkonda,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0481
+PDS0482,2026-07-14,Telangana,Warangal,My eligibility details are not updated in the ration supply system.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0482
+PDS0483,2026-01-22,Andhra Pradesh,Karimnagar,Biometric authentication failed at the PDS ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0483
+PDS0484,2026-08-15,Karnataka,Hanamkonda,The shop did not have enough ration supply stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0484
+PDS0485,2026-04-14,Telangana,Warangal,My ration supply card information is not updated correctly.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0485
+PDS0486,2026-05-20,Andhra Pradesh,Karimnagar,I faced a problem while using ration supply portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0486
+PDS0487,2026-05-03,Karnataka,Hanamkonda,My beneficiary details are not showing correctly at the ration shop.,Beneficiary/Eligibility,Negative,augmented_from_existing_record,AUG_0487
+PDS0488,2026-01-27,Telangana,Warangal,I have not received my ration supply card after applying.,Ration Card Issue,Negative,augmented_from_existing_record,AUG_0488
+PDS0489,2026-08-30,Andhra Pradesh,Karimnagar,The required food grains were out of ration stock.,Stock Shortage,Negative,augmented_from_existing_record,AUG_0489
+PDS0490,2026-03-22,Karnataka,Hanamkonda,The ration quantity received was less than my entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0490
+PDS0491,2026-04-13,Telangana,Warangal,There was a problem with the amount charged for ration supply.,Price Issue,Negative,augmented_from_existing_record,AUG_0491
+PDS0492,2026-01-31,Andhra Pradesh,Karimnagar,The ePoS machine was not working at the ration shop.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0492
+PDS0493,2026-01-20,Karnataka,Hanamkonda,I could not receive ration supply using portability.,Portability/ONORC,Negative,augmented_from_existing_record,AUG_0493
+PDS0494,2026-01-19,Telangana,Warangal,The ration shop was unavailable during the distribution period.,Shop Closed,Negative,augmented_from_existing_record,AUG_0494
+PDS0495,2026-05-29,Andhra Pradesh,Karimnagar,The fair price supply shop was closed when I visited.,Shop Closed,Negative,augmented_from_existing_record,AUG_0495
+PDS0496,2026-02-24,Karnataka,Hanamkonda,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0496
+PDS0497,2026-09-10,Telangana,Warangal,The ration dealer requested an additional amount during distribution.,Price Issue,Negative,augmented_from_existing_record,AUG_0497
+PDS0498,2026-04-09,Andhra Pradesh,Karimnagar,My fingerprint was not accepted by the biometric authentication device.,Biometric/ePoS Issue,Negative,augmented_from_existing_record,AUG_0498
+PDS0499,2026-08-23,Karnataka,Hanamkonda,The PDS ration shop was not open during distribution time.,Shop Closed,Negative,augmented_from_existing_record,AUG_0499
+PDS0500,2026-06-22,Telangana,Warangal,I received less rice than my ration supply entitlement.,Quantity Issue,Negative,augmented_from_existing_record,AUG_0500
